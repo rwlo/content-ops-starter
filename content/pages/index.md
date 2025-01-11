@@ -11,7 +11,7 @@ sections:
     text: |
       August 1<sup>st</sup>, 2025
     actions:
-      - label: Get started
+      - label: RSVP
         altText: ''
         url: /
         showIcon: false
