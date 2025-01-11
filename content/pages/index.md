@@ -705,7 +705,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: message
-          label: Message
+          label: 'Please write the meal preferences for each additional guest '
           hideLabel: true
           placeholder: Your message
           width: full
