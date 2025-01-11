@@ -701,7 +701,7 @@ sections:
           label: Email
           hideLabel: true
           placeholder: Email
-          isRequired: true
+          isRequired: false
           width: full
           type: EmailFormControl
         - name: message
