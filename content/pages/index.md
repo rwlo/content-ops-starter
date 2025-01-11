@@ -686,7 +686,7 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: 'Please confirm your attendance by July 15th, 2025'
     text: "You may have noticed that we did not ask you choose a meal. Dinner is a 5 course tasting menu. The hotel's chef has two Michelin stars so we are all in for a fantastic meal. Each course includes an optional wine pairing. If you didn’t mention a specific food allergy in the RSVP please send a separate email to\_<roseda.lo@gmail.com>\_with your information.\n"
     media:
       fields:
