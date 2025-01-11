@@ -693,7 +693,7 @@ sections:
         - name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Guest name
           isRequired: true
           width: full
           type: TextFormControl
