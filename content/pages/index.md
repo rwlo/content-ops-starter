@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Keely & Ro
       color: text-dark
       type: TitleBlock
     subtitle: we are getting married
