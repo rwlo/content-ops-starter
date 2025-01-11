@@ -687,8 +687,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |
-      Please confirm your attendance by July 15<sup>th</sup>, 2025
+    text: "You may have noticed that we did not ask you choose a meal. Dinner is a 5 course tasting menu. The hotel's chef has two Michelin stars so we are all in for a fantastic meal. Each course includes an optional wine pairing. If you didn’t mention a specific food allergy in the RSVP please send a separate email to\_<roseda.lo@gmail.com>\_with your information.\n"
     media:
       fields:
         - name: name
