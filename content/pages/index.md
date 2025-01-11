@@ -683,7 +683,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: RSVP
       color: text-dark
       type: TitleBlock
     subtitle: 'Please confirm your attendance by July 15th, 2025'
